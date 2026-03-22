@@ -1,1 +1,1 @@
-# zad1_cv
+# Zadanie Nr.1: CV jako strona internetowa WWW(HTML)
