@@ -63,7 +63,7 @@ header:hover, footer:hover, section:hover {
     z-index: 4;
 }
 .O {
-    background-color: darkolivegreen;
+    background-color: #D1FFFF;
     margin-top: 8px;
     opacity: 40%;
     z-index: 1;
@@ -71,12 +71,12 @@ header:hover, footer:hover, section:hover {
 }
 .Umiejętności {
     
-    background-color: darkorange; 
+    background-color: #E8FFE9; 
     opacity: 40%;
     z-index: 1
 }
 .Edukacja {
-    background-color: darksalmon;
+    background-color: #FFFDE5;
     margin-top: 8px; 
     opacity: 40%;
     z-index: 1
